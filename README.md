@@ -1,17 +1,22 @@
-## Hi there 👋
-
-
-**AyushRaturi/AyushRaturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...<Instagram>https://www.instagram.com/ig.ayuxh/?hl=en</Instagram>
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
+{
+  "name": "Your Name",
+  "bio": "🚀 Passionate developer who loves building cool projects and sharing knowledge. Let's collaborate!",
+  "socials": {
+    "website": "https://yourwebsite.com",
+    "instagram": "https://instagram.com/yourusername",
+    "linkedin": "https://linkedin.com/in/yourusername",
+    "discord": "https://discord.com/invite/yourserver"
+  },
+  "tags": [
+    "#Python",
+    "#JavaScript",
+    "#React",
+    "#NodeJS",
+    "#GitHub",
+    "#OpenSource",
+    "#WebDevelopment",
+    "#MachineLearning",
+    "#Blockchain",
+    "#CyberSecurity"
+  ]
+}
