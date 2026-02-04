@@ -1,5 +1,8 @@
 # 💫 About Me:
-I’m Ayush Raturi, a 19-year-old BCA student at IIMT Group of Colleges. I have 2 years of experience in video editing, working in corporate for companies such as Dream MBBS Study Aboard and Dheeraj Films.<br><br>I am now focused on building my career in DevOps and Cloud Computing. I hold the AWS Cloud Practitioner certification and have hands-on experience with AWS, Terraform, Linux, Git, and CI/CD workflows.
+I’m Ayush, currently pursuing a Bachelor of Computer Applications at IIMT Group of Colleges, graduating in
+June 2026, and an AWS Cloud Practitioner. I have hands-on experience with Linux, Shell Scripting, Docker,
+Kubernetes, Terraform, Jenkins, and CI/CD pipelines, and I’m actively seeking opportunities in a DevOps /
+Cloud / CI-CD Trainee role.
 
 
 ## 🌐 Socials:
