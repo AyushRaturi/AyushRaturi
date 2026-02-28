@@ -14,9 +14,9 @@ Cloud / CI-CD Trainee role.
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AyushRaturi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=AyushRaturi&theme=github&hide_border=false&cache_seconds=86400)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaturi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=AyushRaturi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AyushRaturi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaturi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushRaturi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
