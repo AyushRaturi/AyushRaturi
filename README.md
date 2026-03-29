@@ -1,8 +1,5 @@
 # 💫 About Me:
-I’m Ayush, currently pursuing a Bachelor of Computer Applications at IIMT Group of Colleges, graduating in
-June 2026, and an AWS Cloud Practitioner. I have hands-on experience with Linux, Shell Scripting, Docker,
-Kubernetes, Terraform, Jenkins, and CI/CD pipelines, and I’m actively seeking opportunities in a DevOps /
-Cloud / CI-CD Trainee role.
+DevOps-focused BCA student (graduating June 2026) with hands-on experience managing Linux servers, building CI/CD pipelines, and deploying containerized applications on AWS. AWS Certified Cloud Practitioner with a proven track record of automating operations using Bash, Shell Scripting, Docker, and Kubernetes. Experienced in incident response, live debugging, and writing technical documentation. Actively integrating AI-assisted tools (GitHub Copilot, Claude) into daily infrastructure work.
 
 
 ## 🌐 Socials:
