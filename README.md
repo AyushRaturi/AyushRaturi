@@ -10,10 +10,8 @@ DevOps-focused BCA student (graduating June 2026) with hands-on experience manag
 
 
 # 📊 GitHub Stats:
+[![GitHub Streak](https://streak-stats.demolab.com?user=AyushRaturi&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
-![](https://github-readme-stats.vercel.app/api?username=AyushRaturi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AyushRaturi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushRaturi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AyushRaturi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
