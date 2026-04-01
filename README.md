@@ -32,6 +32,7 @@ DevOps-focused BCA student (graduating June 2026) with hands-on experience manag
 
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=AyushRaturi&color=brightgreen&style=flat-square)
 [![](https://visitcount.itsvg.in/api?id=AyushRaturi&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://gh-readme-profile.vercel.app/api?username=AyushRaturi&theme=dark)
+
 
