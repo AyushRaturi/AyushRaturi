@@ -1,4 +1,4 @@
-![head](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hey,%20I'm%20Ayush&textBg=false&animation=fadeIn&desc=DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20CI/CD%20Automation&descAlign=50&descAlignY=73&fontAlignY=46&reversal=true&section=footer&fontAlign=50)
+![head](https://capsule-render.vercel.app/api?type=rounded&height=200&color=gradient&text=Hey,%20I'm%20Ayush!&textBg=false&animation=fadeIn&desc=DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20CI/CD%20Automation&descAlign=50&descAlignY=73&fontAlignY=46&reversal=true&section=footer&fontAlign=50)
 
 ## 💫 About Me:
 DevOps-focused BCA student (graduating June 2026) with hands-on experience managing Linux servers, building CI/CD pipelines, and deploying containerized applications on AWS. AWS Certified Cloud Practitioner with a proven track record of automating operations using Bash, Shell Scripting, Docker, and Kubernetes. Experienced in incident response, live debugging, and writing technical documentation. Actively integrating AI-assisted tools (GitHub Copilot, Claude) into daily infrastructure work.
